@@ -1,16 +1,14 @@
-## HI every one ,my name is MAhmoud khaled 
-  
-
-
-
 
 <h1 align="center">Hi 👋, I'm Mahmoud Khaled</h1>
 <h3 align="center">GIS developer</h3>
+
+
 I consider my self Mini Giser 😅, No one born great so i'm tring to take a step to be agraet Giser "Gis developer"
 
 The real step to achieve this dream is to be one of ITI studient nine month program 
 
 Next step i'm tring to show my skills or projects that i did or i will do 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudkhaled17&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkhaled17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudkhaled17" alt="mahmoudkhaled17" /></a> </p>
@@ -26,6 +24,7 @@ Next step i'm tring to show my skills or projects that i did or i will do
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkhaled17&show_icons=true&locale=en&layout=compact" alt="mahmoudkhaled17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudkhaled17&show_icons=true&locale=en" alt="mahmoudkhaled17" /></p>
+
 
 
 
