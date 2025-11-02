@@ -53,7 +53,7 @@ Simulated a 1.7m² drag sail system for a 3U CubeSat (4 kg) in Low Earth Orbit u
 - **GIS + AI Integration Projects** → Land classification and spatial prediction  
 - **NLP Models** (DEPI Internship) → Text analytics and sentiment classification  
 - **MLOps Pipelines** → Data preprocessing and model deployment  
-🔗 [View all projects]([https://github.com/mahmoudkhaled17](https://github.com/Mahmoudkhaled17/GIS))
+🔗 [View all projects](https://github.com/Mahmoudkhaled17/GIS)
 
 ---
 
@@ -96,4 +96,5 @@ Simulated a 1.7m² drag sail system for a 3U CubeSat (4 kg) in Low Earth Orbit u
 ---
 
 ⭐ **"Learning never ends — I’m just getting started!"**
+
 
