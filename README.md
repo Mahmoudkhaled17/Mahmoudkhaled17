@@ -1,104 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-    <link>
-        <meta charset="UTF-8"/>
-        <meta name="viewport" content="width=device-width,initial-scale-1"/>
-        <title> web</title>
-        <link rel="stylesheet"  href="css/web.css"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Momo+Signature&family=Sixtyfour&display=swap" rel="stylesheet">
+<h1 align="center">Hi 👋, I'm Mahmoud Khaled</h1>
+<h3 align="center">🌍 GIS & GeoAI Developer | Machine Learning Enthusiast 🚀</h3>
 
-    </head>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudkhaled17&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkhaled17" />
+</p>
 
-    <body>
+---
 
-<header>
-<h1 >content bottom-cover title goes here</h1>
-<h2>that's your web</h2>
-<h3><a href="#main" >Get your ** now ></a></h3>
-<h4><a href="#main" >▽</a></h4>
+### 🛰️ About Me
+I’m **Mahmoud Khaled Elmohamdy**, a passionate **GIS Developer** and **AI Enthusiast** who loves combining geospatial data with machine learning to create intelligent, real-world solutions.  
+I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become a great GIS Developer!
 
+🎓 **Education:**  
+- **Faculty of Navigation Science and Space Technology**, Beni-Suef University  
+- **Department of Space Navigation (2020–2025)**  
+- GPA: **3.83/4.0** | **6th in class**
 
+💡 **Career Goal:**  
+To join the **ITI 9-Month Program** and become a professional GIS/GeoAI developer capable of building scalable, AI-powered spatial systems.
 
+---
 
-</header>
+### 🧠 What I Do
+- 🌍 GIS & Remote Sensing (ArcGIS Pro, ArcGIS Online, Spatial Analysis)
+- 🤖 Machine Learning & Deep Learning (TensorFlow, Scikit-learn)
+- 🛰️ Integration of AI with GIS (Satellite image classification, land use prediction)
+- 🧩 MLOps tools (MLflow, Azure AI, Hugging Face)
+- 💻 Python for data science (NumPy, Pandas, Matplotlib)
 
-<main id="main"> 
+---
 
-    <div class ="container">
-            <div>
-                <img src="../20160305000536-diamond.jpeg" alt="web image" />
-                <h2>clean design</h2>
-                <h3>the clean design important lab lab lab lab lab lab</h3>
-                <h4>check it </h4>
-                </div>  
-            <div>
-                <img src="../20160305000536-diamond.jpeg" alt="web image" />
+### 🚀 Experience
+- **Machine Learning Intern – Digital Egypt Pioneers Initiative (DEPI)**  
+  Worked on ML/DL/NLP models, GANs, and MLOps with Python and Azure AI tools.
 
-                <h2>responsive</h2>
-                <h3>the responsive important lab lab lab lab lab lab</h3>
-                <h4>check it </h4>
-            </div>
-            <div>
-                <img src="../20160305000536-diamond.jpeg" alt="web image" />
-                <h2>HTML BLOCKS</h2>
-                <h3>the HTML BLOCKS important lab lab lab lab lab lab</h3>
-                <h4>check it </h4>
-            </div>
-            <div>
-                <img src="../20160305000536-diamond.jpeg" alt="web image" />
+- **AI Intern – Elaraby Group**  
+  Applied AI concepts to smart manufacturing and process optimization.
 
-                <h2>bootstrap4</h2>
-                
-                <h3>the bootstrap4 important lab lab lab lab lab lab</h3>
-            <h4>check it </h4>
-            </div>
-    </div>
+- **AI Intern – NRIAG (National Research Institute of Astronomy and Geophysics)**  
+  Applied AI to satellite and seismic data analysis.
 
-    <div class="container2">
-        <h1>blueprints</h1>
-        <p>A blueprint is a reproduction of a technical drawing or engineering drawing using a contact print process on light-sensitive sheets introduced by Sir John Herschel in 1842.[1] The traditional white-on-blue appearance of blueprints is a result of the cyanotype process, which allowed rapid and accurate production of an unlimited number of copies of an original reference. It was widely used for over a century for the reproduction of specification drawings used in construction and industry. Blueprints were characterized by white lines on a blue background, a negative of the original. Color or shades of grey could not be reproduced.</p>
-        
-        </div>
+---
 
-    <div class="container3">
-        <div>
-            <p>
-                400x300
-            </p>
-            <p>
-                400x300
-            </p>
-            <p>
-                400x300
-            </p>
-        </div>
-        <div>
-            <p>
-                400x300
-            </p>
-            <p>
-                400x300
-            </p>
-            <p>
-                400x300
-            </p>
-            </div>  
+### 🛰️ Final Year Project
+**Deployable Drag Sail for Satellite Deorbiting**  
+Simulated a 1.7m² drag sail system for a 3U CubeSat (4 kg) in Low Earth Orbit using **STK** for mission analysis and orbital perturbations.  
+🔗 [GitHub Repository](https://github.com/mahmoudkhaled17/Dragsail-Simulation)
 
-        </div>
+---
 
+### 🧩 Featured Projects
+- **GIS + AI Integration Projects** → Land classification and spatial prediction  
+- **NLP Models** (DEPI Internship) → Text analytics and sentiment classification  
+- **MLOps Pipelines** → Data preprocessing and model deployment  
+🔗 [View all projects](https://github.com/Mahmoudkhaled17/GIS)
 
+---
 
+### 🏆 Honors & Activities
+- Accepted to the **DebriSolver Competition** (Saudi Space Agency)  
+- **Dean’s List** multiple semesters  
+- Ranked **Top 10** in the Faculty of Navigation Science and Space Technology  
 
-</main>
+---
 
-    </body>
+### 🛠️ Languages and Tools
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Esri_logo.svg" width="40" height="40"/></a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="60" height="40"/></a>
+</p>
 
+---
 
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkhaled17&show_icons=true&locale=en&layout=compact" alt="mahmoudkhaled17" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudkhaled17&show_icons=true&locale=en" alt="mahmoudkhaled17" /></p>
 
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-khaled1" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-khaled1" height="30" width="40" />
+</a>
+<a href="mailto:mahmoudkhaedl1772001@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+⭐ **"Learning never ends — I’m just getting started!"**
 
 
 
-    </html>
