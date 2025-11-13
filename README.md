@@ -21,10 +21,8 @@ I like to call myself a **“Mini Giser” 😅** — because no one is born gre
 
 - 🌱 I’m currently learning **Frontend, gis ,GeoAi**
 
-- 💬 Ask me about **I’m **Mahmoud Khaled Elmohamdy**, a passionate **GIS Developer** and **AI Enthusiast** who loves combining geospatial data with machine learning to create intelligent, real-world solutions. I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become a great GIS Developer!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
