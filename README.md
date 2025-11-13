@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudkhaled17&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkhaled17" /> </p>
 
-🛰️##  GIS & GeoAI Focus
+## 🛰️ GIS & GeoAI Focus
 
 I’m **Mahmoud Khaled Elmohamdy**, a passionate **GIS Developer** and **AI Enthusiast** who loves combining geospatial data with machine learning to create intelligent, real-world solutions.  
 I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become one.
