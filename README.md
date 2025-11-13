@@ -7,132 +7,120 @@
 
 ---
 
-## 🛰️ GIS & GeoAI — **Primary Focus**
-I focus on GIS & Remote Sensing first — combining spatial analysis with AI to build real-world solutions.
+## 🛰️ About Me
 
-**Key GIS skills**
-- ArcGIS Pro / ArcGIS Online
-- Spatial analysis, Network analysis
-- Satellite image preprocessing, NDVI/NDWI, spectral indices
-- Raster & vector workflows, Land-use / land-cover classification
-- STK mission analysis (space-related simulations)
+I’m **Mahmoud Khaled Elmohamdy**, a passionate **GIS Developer** and **AI Enthusiast** who loves combining geospatial data with machine learning to create intelligent, real-world solutions.
 
-**Featured GIS projects**
-- **Dragsail Simulation** — deployable drag sail for CubeSat deorbiting. 🔗 https://github.com/mahmoudkhaled17/Dragsail-Simulation  
-- **Land Cover Classification** — CNN-based satellite classification with spatial post-processing.  
-- **Interactive Web Map** — ArcGIS Online dashboard & story map.
+I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become a great GIS Developer!
+
+🎓 **Education**
+
+- Faculty of Navigation Science and Space Technology, Beni-Suef University  
+- Department of Space Navigation (2020–2025)  
+- GPA: **3.83 / 4.0 | 6th in class**
+
+💡 **Career Goal**  
+To join the ITI 9-Month Program and become a professional GIS/GeoAI developer capable of building scalable, AI-powered spatial systems.
 
 ---
 
-## 🧠 Machine Learning & AI — (Complementary to GIS)
-I use ML/AI to enhance GIS outputs and build predictive systems.
+## 🧭 GIS & Remote Sensing (My Core Focus)
 
-**Key ML/AI skills**
-- TensorFlow, PyTorch, Scikit-learn
-- Convolutional Neural Networks (satellite imagery)
-- GANs for data augmentation
-- NLP (DEPI projects) — text analytics & sentiment classification
-- MLOps: MLflow, model serving, Azure AI, reproducible pipelines
+- ArcGIS Pro, ArcGIS Online, and QGIS  
+- Spatial Analysis and Geostatistics  
+- Remote Sensing & Satellite Imagery  
+- Python integration with GIS (ArcPy, GeoPandas)  
+- AI-enhanced spatial models and land classification
 
-**Featured ML projects**
-- MLflow pipelines & model serving for spatial models  
-- Custom CNNs for remote sensing classification  
-- GANs to increase labeled data for spatial tasks
+---
+
+## 🤖 Machine Learning & GeoAI
+
+- **Machine Learning & Deep Learning** (TensorFlow, Scikit-learn)  
+- **Integration of AI with GIS** (Satellite image classification, land use prediction)  
+- **MLOps Tools** (MLflow, Azure AI, Hugging Face)  
+- **Python for Data Science** (NumPy, Pandas, Matplotlib)
 
 ---
 
 ## 🚀 Experience
-- **Machine Learning Intern** — Digital Egypt Pioneers Initiative (DEPI) — ML/DL/NLP & MLOps.  
-- **AI Intern** — Elaraby Group — Smart manufacturing.  
-- **AI Intern** — NRIAG — Satellite & seismic data analysis.
+
+- **Machine Learning Intern – Digital Egypt Pioneers Initiative (DEPI)**  
+  Worked on ML/DL/NLP models, GANs, and MLOps using Python and Azure AI tools.
+
+- **AI Intern – Elaraby Group**  
+  Applied AI concepts to smart manufacturing and process optimization.
+
+- **AI Intern – NRIAG (National Research Institute of Astronomy and Geophysics)**  
+  Applied AI to satellite and seismic data analysis.
 
 ---
 
 ## 🛰️ Final Year Project
-**Deployable Drag Sail for Satellite Deorbiting** — simulated a 1.7 m² drag sail for a 3U CubeSat using STK for orbital perturbation analysis.  
-🔗 https://github.com/mahmoudkhaled17/Dragsail-Simulation
+
+**Deployable Drag Sail for Satellite Deorbiting**  
+Simulated a 1.7m² drag sail system for a 3U CubeSat (4 kg) in Low Earth Orbit using STK for mission analysis and orbital perturbations.
+
+🔗 *[GitHub Repository Coming Soon]*
 
 ---
 
-## 🧩 Full Example: HTML / CSS / JS (Demo page for your profile)
-> *Note:* GitHub README renders HTML but for full website behaviour (CSS + JS) use **GitHub Pages** (instructions below).  
-> The code below is a single-file demo you can paste into `index.html` and publish.
+## 🧩 Featured Projects
 
-```html
-<!-- index.html (demo) -->
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Mahmoud Khaled — GIS & GeoAI</title>
-  <style>
-    :root{--bg:#071021;--card:#0b1220;--accent:#0e75b6;--muted:#94a3b8}
-    body{margin:0;font-family:Inter,system-ui,Arial;background:linear-gradient(#071021,#081427);color:#e6eef8}
-    .wrap{max-width:1000px;margin:36px auto;padding:20px}
-    header{display:flex;gap:16px;align-items:center}
-    .avatar{width:90px;height:90px;border-radius:12px;background:linear-gradient(135deg,var(--accent),#4fa6e6);display:flex;align-items:center;justify-content:center;font-weight:700}
-    h1{margin:0;font-size:22px} h2{margin:4px 0 0;color:var(--muted)}
-    .grid{display:grid;grid-template-columns:1fr 320px;gap:20px;margin-top:20px}
-    .card{background:rgba(255,255,255,0.02);padding:16px;border-radius:10px}
-    .tabs{display:flex;gap:8px;margin-top:10px}
-    .tab{padding:8px 10px;border-radius:8px;border:1px solid rgba(255,255,255,0.03);cursor:pointer}
-    .tab.active{border-color:var(--accent);color:var(--accent)}
-    @media(max-width:900px){.grid{grid-template-columns:1fr}}
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <header>
-      <div class="avatar">MK</div>
-      <div>
-        <h1>Mahmoud Khaled</h1>
-        <h2>GIS & GeoAI Developer | Machine Learning Enthusiast</h2>
-      </div>
-    </header>
+- 🌍 **GIS + AI Integration Projects** → Land classification and spatial prediction  
+- 🤖 **NLP Models (DEPI Internship)** → Text analytics and sentiment classification  
+- 🧠 **MLOps Pipelines** → Data preprocessing and model deployment  
 
-    <div class="grid">
-      <main>
-        <section class="card" id="gis">
-          <h3>🌍 GIS (Featured)</h3>
-          <p>ArcGIS Pro, Remote Sensing, STK, Network Analysis — primary focus.</p>
-          <div class="tabs" role="tablist">
-            <button class="tab active" data-target="gis-projects">Projects</button>
-            <button class="tab" data-target="gis-tools">Tools</button>
-          </div>
+🔗 *View all projects on my GitHub profile.*
 
-          <div id="gis-projects" class="panel" style="margin-top:12px">
-            <ul>
-              <li><strong>Dragsail Simulation</strong> — CubeSat deorbiting (STK). <a href="https://github.com/mahmoudkhaled17/Dragsail-Simulation" target="_blank">Repo</a></li>
-              <li><strong>Land Cover Classification</strong> — CNN + spatial post-processing.</li>
-            </ul>
-          </div>
-        </section>
+---
 
-        <section class="card" id="ml" style="margin-top:14px">
-          <h3>🤖 Machine Learning & AI</h3>
-          <p>TensorFlow, MLflow, GANs, CNNs for satellite imagery and MLOps pipelines.</p>
-        </section>
-      </main>
+## 🏆 Honors & Activities
 
-      <aside>
-        <div class="card">
-          <h4>Contact</h4>
-          <p><a href="https://linkedin.com/in/mahmoud-khaled1" target="_blank">LinkedIn</a> • <a href="mailto:mahmoudkhaedl1772001@gmail.com">Email</a></p>
-        </div>
-      </aside>
-    </div>
-  </div>
+- Accepted to the **DebriSolver Competition** (Saudi Space Agency)  
+- **Dean’s List** multiple semesters  
+- Ranked **Top 10** in the Faculty of Navigation Science and Space Technology  
 
-  <script>
-    document.querySelectorAll('.tab').forEach(btn=>{
-      btn.addEventListener('click', ()=>{
-        document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
-        btn.classList.add('active');
-        // panels (simple) - hide others if needed
-        // (demo only)
-      });
-    });
-  </script>
-</body>
-</html>
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Esri_logo.svg" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+<a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="60" height="40"/></a>
+</p>
+
+---
+
+## 🌐 Web Development (Currently Learning)
+
+Although my main focus is **GIS and AI**, I’m also exploring **HTML, CSS, and JavaScript**  
+to enhance my ability to build interactive GIS dashboards and data visualization tools for the web.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudkhaled17&show_icons=true&locale=en&layout=compact" alt="mahmoudkhaled17" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudkhaled17&show_icons=true&locale=en" alt="mahmoudkhaled17" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-khaled1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:mahmoudkhaled1772001@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" /></a>
+</p>
+
+---
+
+⭐ “Learning never ends — I’m just getting started!”
