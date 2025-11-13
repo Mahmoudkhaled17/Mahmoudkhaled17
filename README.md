@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudkhaled17&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkhaled17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudkhaled17" alt="mahmoudkhaled17" /></a> </p>
+
 
 - 🔭 I’m currently on **ITI 9-Month Program and become a professional GIS/GeoAI developer capable of building scalable, AI-powered spatial systems.**
 
