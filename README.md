@@ -3,7 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudkhaled17&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudkhaled17" /> </p>
 
-
+About Me
+‏
+‏I’m Mahmoud Khaled Elmohamdy, a passionate GIS Developer and AI Enthusiast who loves combining geospatial data with machine learning to create intelligent, real-world solutions.
+‏
+‏I like to call myself a “Mini Giser” 😅 — because no one is born great, but I’m taking every step to become a great GIS Developer!
+‏
+‏🎓 Education:
+‏
+‏Faculty of Navigation Science and Space Technology, Beni-Suef University
+‏
+‏Department of Space Navigation (2020–2025)
+‏
+‏GPA: 3.83/4.0 | 6th in class
+‏
 
 - 🔭 I’m currently on **ITI 9-Month Program and become a professional GIS/GeoAI developer capable of building scalable, AI-powered spatial systems.**
 
