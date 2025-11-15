@@ -6,16 +6,7 @@
 ## 🛰️ About Me
 
 I’m **Mahmoud Khaled Elmohamdy**, a passionate **GIS Developer** and **AI Enthusiast** who loves combining geospatial data with machine learning to create intelligent, real-world solutions.  
-I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become one.
-
-## ‏🎓 Education:
-‏
-**‏Faculty of Navigation Science and Space Technology, Beni-Suef University**
-‏
-‏Department of Space Navigation (2020–2025)
-‏
-‏GPA: 3.83/4.0 | 6th in class
-‏
+I like to call myself a **“Mini Giser” 😅** — because no one is born great, but I’m taking every step to become one.‏
 
 - 🔭 I’m currently on **ITI 9-Month Program and become a professional GIS/GeoAI developer capable of building scalable, AI-powered spatial systems.**
 
