@@ -13,7 +13,6 @@ I like to call myself a **“Mini Giser” 😅** — because no one is born gre
 - 🌱 I’m currently learning **Frontend, gis ,GeoAi**
 
 
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
