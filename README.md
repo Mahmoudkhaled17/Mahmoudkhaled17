@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmoud Khaled Elmohamdy
 
-### 🛰️ GIS Developer | AI & ML Engineer | Space Technology Graduate
+### 🛰️ GIS Developer |  ML Engineer | Space Technology Graduate
 
 > *Bridging the gap between geospatial intelligence and machine learning*
 
