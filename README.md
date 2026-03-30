@@ -1,15 +1,17 @@
-# Hi, I'm Mahmoud Khaled Elmohamdy
+# Mahmoud Khaled Elmohamdy
 
-GIS Developer and Machine Learning Engineer with a background in space technology and growing full-stack development experience. I work across geospatial analysis, AI workflows, simulation, and web applications, with a focus on building practical and technically solid projects.
+GIS Developer | Machine Learning Engineer | Space Technology Graduate
 
-## Profile
+I build practical solutions across geospatial analysis, machine learning, simulation, and web development. My work combines technical research, applied engineering, and software implementation.
+
+## About Me
 
 - Space Technology graduate from Beni-Suef University
 - Professional GIS Diploma trainee at ITI Smart Village
 - Interested in GIS, remote sensing, machine learning, and modern web development
-- Experience with academic, internship, and self-driven technical projects
+- Hands-on experience through academic projects, internships, and self-driven development
 
-## Tech Stack
+## Technical Skills
 
 ### GIS and Space
 
@@ -41,30 +43,30 @@ GIS Developer and Machine Learning Engineer with a background in space technolog
 
 `HTML5` `CSS3` `Material UI` `React Router` `Mongoose` `REST APIs` `Git` `GitHub`
 
-## Featured Work
+## Featured Projects
 
-### [Graduation Project: Drag Sail Simulation](https://github.com/Mahmoudkhaled17/Graduation-project-Dragsail)
+### [Drag Sail Simulation for CubeSat Deorbiting](https://github.com/Mahmoudkhaled17/Graduation-project-Dragsail)
 
-Designed and evaluated a drag sail solution for passive CubeSat deorbiting. The project used STK to simulate orbital decay under multiple forces including atmospheric drag, gravity, solar radiation pressure, and lunar perturbation.
+Designed and evaluated a passive drag sail solution for CubeSat deorbiting. The project used STK to simulate orbital decay under atmospheric drag, gravity, solar radiation pressure, and lunar perturbation.
 
 ### [GIS Projects and Research](https://github.com/Mahmoudkhaled17/GIS)
 
-Repository for GIS training and project work focused on mapping, geoprocessing, and applied spatial analysis.
+GIS training and project work focused on mapping, geoprocessing, and applied spatial analysis.
 
-### [DEPI Internship](https://github.com/Mahmoudkhaled17/DEPI_INTERN)
+### [DEPI Internship and AI Training](https://github.com/Mahmoudkhaled17/DEPI_INTERN)
 
 Machine learning training path covering statistics, Python for data science, supervised learning, Azure AI, MLOps tools, MLflow, Hugging Face, GANs, and NLP.
 
-### [MERN Practice](https://github.com/Mahmoudkhaled17/Mern-ITI)
+### [MERN Practice and Backend Tasks](https://github.com/Mahmoudkhaled17/Mern-ITI)
 
 Practice work in JavaScript, React, Express, and MongoDB including CRUD APIs, frontend tasks, and small application exercises.
 
-## Additional Work
+## Project Highlights
 
-- React and Vite CV builder projects
-- Shopping cart and product interface projects with React Router
-- Express and MongoDB backend fundamentals
-- C# console and problem-solving practice
+- Built React and Vite projects including CV builder applications
+- Developed shopping cart and product interface projects using React Router
+- Practiced Express and MongoDB backend development with CRUD APIs
+- Worked on C# console applications for problem solving and programming fundamentals
 
 ## Experience
 
@@ -86,6 +88,13 @@ Practice work in JavaScript, React, Express, and MongoDB including CRUD APIs, fr
 - MLOps Tools, MLflow, and Hugging Face
 - Natural Language Processing with Attention Models
 - Basic Generative Adversarial Networks
+
+## Career Focus
+
+- GIS and geospatial application development
+- Machine learning and applied AI workflows
+- Remote sensing and spatial data analysis
+- Backend and full-stack web development
 
 ## Connect
 
